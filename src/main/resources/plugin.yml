@@ -1,0 +1,14 @@
+name: KotHub
+version: '${project.version}'
+main: dev.qv7_.KotHub
+authors: [7qv_]
+commands:
+  author:
+    aliases: ["dev", "kot", "hubcore", "developer"]
+  website:
+  twitter:
+  teamspeak:
+    aliases: ["ts"]
+  store:
+  discord:
+    aliases: ["dc"]
